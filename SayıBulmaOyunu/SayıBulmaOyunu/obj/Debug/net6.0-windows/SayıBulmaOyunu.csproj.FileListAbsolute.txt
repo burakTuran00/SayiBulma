@@ -1,0 +1,16 @@
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\net6.0-windows\SayıBulmaOyunu.exe
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\net6.0-windows\SayıBulmaOyunu.deps.json
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\net6.0-windows\SayıBulmaOyunu.runtimeconfig.json
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\net6.0-windows\SayıBulmaOyunu.dll
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\bin\Debug\net6.0-windows\SayıBulmaOyunu.pdb
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.Form1.resources
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.csproj.GenerateResource.cache
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.AssemblyInfoInputs.cache
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.AssemblyInfo.cs
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.csproj.CoreCompileInputs.cache
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.dll
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\refint\SayıBulmaOyunu.dll
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.pdb
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\SayıBulmaOyunu.genruntimeconfig.cache
+D:\Projects\SayıBulmaOyunu\SayıBulmaOyunu\obj\Debug\net6.0-windows\ref\SayıBulmaOyunu.dll
